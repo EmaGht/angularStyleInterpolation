@@ -6,10 +6,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 1) ng build
 
-1.1) Yay!
+2) Yay!
 
-2) change tsconfig.json --> enableIvy = true
+3) change tsconfig.json --> enableIvy = true
 
-3) ng build
+4) ng build
 
-3.1) sad.jpg
+5) sad.jpg
